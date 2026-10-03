@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "task_date": "2026-09-27",
+    "job_id": "VDF-2026-0001",
+    "dept": "Production",
+    "task": "Finalize CNC Nesting & Cutlist",
+    "owner": "Vikram Singh",
+    "priority": "High",
+    "status": "In Progress",
+    "pct": 60
+  }
+]

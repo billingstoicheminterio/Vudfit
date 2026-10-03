@@ -1,0 +1,259 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 224 71.4% 4.1%;
+    --card: 0 0% 100%;
+    --card-foreground: 224 71.4% 4.1%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 71.4% 4.1%;
+    --primary: 239 84% 67%;
+    --primary-foreground: 210 20% 98%;
+    --secondary: 220 14.3% 95.9%;
+    --secondary-foreground: 220.9 39.3% 11%;
+    --muted: 220 14.3% 95.9%;
+    --muted-foreground: 220 8.9% 46.1%;
+    --accent: 239 84% 67%;
+    --accent-foreground: 220.9 39.3% 11%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 20% 98%;
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: 239 84% 67%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 224 71.4% 4.1%;
+    --foreground: 210 20% 98%;
+    --card: 224 71.4% 7%;
+    --card-foreground: 210 20% 98%;
+    --popover: 224 71.4% 6%;
+    --popover-foreground: 210 20% 98%;
+    --primary: 239 84% 67%;
+    --primary-foreground: 210 20% 98%;
+    --secondary: 215 27.9% 16.9%;
+    --secondary-foreground: 210 20% 98%;
+    --muted: 215 27.9% 16.9%;
+    --muted-foreground: 217.9 10.6% 64.9%;
+    --accent: 239 84% 67%;
+    --accent-foreground: 210 20% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 20% 98%;
+    --border: 215 27.9% 16.9%;
+    --input: 215 27.9% 16.9%;
+    --ring: 239 84% 67%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  ::selection {
+    background-color: var(--brand-500);
+    color: #ffffff;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(156, 163, 175, 0.3);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(156, 163, 175, 0.5);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(75, 85, 99, 0.4);
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(107, 114, 128, 0.6);
+}
+
+/* Glassmorphism helpers */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.dark .glass-panel {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Dynamic Brand Color Themes */
+:root, .dark {
+  --brand-50: #E6F0EC;
+  --brand-100: #C3D9D0;
+  --brand-200: #99BDB0;
+  --brand-300: #6E9F8F;
+  --brand-400: #488270;
+  --brand-500: #162E26;
+  --brand-600: #122620;
+  --brand-700: #0E1E19;
+  --brand-800: #091512;
+  --brand-900: #050D0A;
+}
+
+[data-color-theme="vudfit_green"] {
+  --brand-50: #E6F0EC;
+  --brand-100: #C3D9D0;
+  --brand-200: #99BDB0;
+  --brand-300: #6E9F8F;
+  --brand-400: #488270;
+  --brand-500: #162E26;
+  --brand-600: #122620;
+  --brand-700: #0E1E19;
+  --brand-800: #091512;
+  --brand-900: #050D0A;
+}
+
+[data-color-theme="vudfit_gold"] {
+  --brand-50: #FAF6EC;
+  --brand-100: #F3E9CD;
+  --brand-200: #E9D7A5;
+  --brand-300: #DFCA8D;
+  --brand-400: #D8C38B;
+  --brand-500: #D7C18A;
+  --brand-600: #BCA670;
+  --brand-700: #9D8853;
+  --brand-800: #796738;
+  --brand-900: #544621;
+}
+
+[data-color-theme="vudfit_gold_bg"] {
+  --brand-50: #FAF6EC;
+  --brand-100: #F3E9CD;
+  --brand-200: #E9D7A5;
+  --brand-300: #DFCA8D;
+  --brand-400: #D8C38B;
+  --brand-500: #D7C18A;
+  --brand-600: #BCA670;
+  --brand-700: #9D8853;
+  --brand-800: #796738;
+  --brand-900: #544621;
+}
+
+[data-color-theme="vudfit_gold_bg"] body {
+  background-color: #D7C18A !important;
+}
+
+[data-color-theme="vudfit_bronze"] {
+  --brand-50: #F5F1EB;
+  --brand-100: #E5D9C8;
+  --brand-200: #CEB99C;
+  --brand-300: #B29671;
+  --brand-400: #96764B;
+  --brand-500: #42341D;
+  --brand-600: #362A17;
+  --brand-700: #2A2011;
+  --brand-800: #1E160C;
+  --brand-900: #120B05;
+}
+
+[data-color-theme="indigo"] {
+  --brand-50: #EEF2FF;
+  --brand-100: #E0E7FF;
+  --brand-200: #C7D2FE;
+  --brand-300: #A5B4FC;
+  --brand-400: #818CF8;
+  --brand-500: #6366F1;
+  --brand-600: #4F46E5;
+  --brand-700: #4338CA;
+  --brand-800: #3730A3;
+  --brand-900: #312E81;
+}
+
+[data-color-theme="emerald"] {
+  --brand-50: #ECFDF5;
+  --brand-100: #D1FAE5;
+  --brand-200: #A7F3D0;
+  --brand-300: #6EE7B7;
+  --brand-400: #34D399;
+  --brand-500: #10B981;
+  --brand-600: #059669;
+  --brand-700: #047857;
+  --brand-800: #065F46;
+  --brand-900: #064E3B;
+}
+
+[data-color-theme="sapphire"] {
+  --brand-50: #F0F9FF;
+  --brand-100: #E0F2FE;
+  --brand-200: #BAE6FD;
+  --brand-300: #7DD3FC;
+  --brand-400: #38BDF8;
+  --brand-500: #0284C7;
+  --brand-600: #0369A1;
+  --brand-700: #075985;
+  --brand-800: #0C4A6E;
+  --brand-900: #082F49;
+}
+
+[data-color-theme="amber"] {
+  --brand-50: #FFFBEB;
+  --brand-100: #FEF3C7;
+  --brand-200: #FDE68A;
+  --brand-300: #FCD34D;
+  --brand-400: #FBBF24;
+  --brand-500: #F59E0B;
+  --brand-600: #D97706;
+  --brand-700: #B45309;
+  --brand-800: #92400E;
+  --brand-900: #78350F;
+}
+
+[data-color-theme="violet"] {
+  --brand-50: #F5F3FF;
+  --brand-100: #EDE9FE;
+  --brand-200: #DDD6FE;
+  --brand-300: #C4B5FD;
+  --brand-400: #A78BFA;
+  --brand-500: #8B5CF6;
+  --brand-600: #7C3AED;
+  --brand-700: #6D28D9;
+  --brand-800: #5B21B6;
+  --brand-900: #4C1D95;
+}
+
+[data-color-theme="rose"] {
+  --brand-50: #FFF1F2;
+  --brand-100: #FFE4E6;
+  --brand-200: #FECDD3;
+  --brand-300: #FDA4AF;
+  --brand-400: #FB7185;
+  --brand-500: #F43F5E;
+  --brand-600: #E11D48;
+  --brand-700: #BE123C;
+  --brand-800: #9F1239;
+  --brand-900: #881337;
+}
+
+[data-color-theme="cyan"] {
+  --brand-50: #ECFEFF;
+  --brand-100: #CFFAFE;
+  --brand-200: #A5F3FC;
+  --brand-300: #67E8F9;
+  --brand-400: #22D3EE;
+  --brand-500: #06B6D4;
+  --brand-600: #0891B2;
+  --brand-700: #0E7490;
+  --brand-800: #155E75;
+  --brand-900: #164E63;
+}

@@ -1,0 +1,1828 @@
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-17 17:25:44
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=25.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">25.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafele</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-17 11:55:37</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Hinges</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-17 17:26:23
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=20.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">20.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Luxury Spaces Ltd</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-17 11:56:17</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Hinges used for wardrobe</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-19 17:44:29
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=20.0 pcs, Operator=Master Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">20.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Master Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-19 12:14:23</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-19 17:55:14
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=50.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">50.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafele India</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INV-100</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-19 12:25:07</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Test verification</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-19 17:58:29
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: NO
+DETAILS: Type=inward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=11.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">11.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">None</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">None</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-19 12:28:25</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 11:53:20
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=11.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">11.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">godrej</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INV</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 06:23:14</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 12:04:49
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=20.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">20.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Kathan Desai</td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 06:34:44</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">nw kitchen</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 12:45:44
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=3D Auto Soft Close Hinge, SKU=MK-HIN-001, Qty=11.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-HIN-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">11.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_3c474d9c382f41ecb91b9bd3021d4cae.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 07:15:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">side panels</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 13:01:43
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=High Gloss White Acrylic Sheet, SKU=MK-LAM-001, Qty=10.0 sheets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">High Gloss White Acrylic Sheet</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">10.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafe</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INBV</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_d82ddd0d1c8a4ddfab181bacd40abd2b.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 13:01:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">test</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 13:01:48
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=Exterior Grade MDF 12mm, SKU=MK-MDF-001, Qty=10.0 sheets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Exterior Grade MDF 12mm</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-MDF-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-MDF-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">10.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafe</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INBV</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_d82ddd0d1c8a4ddfab181bacd40abd2b.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 13:01:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">test</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 13:01:53
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=BWP Marine Plywood 18mm, SKU=MK-PLY-001, Qty=10.0 sheets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">BWP Marine Plywood 18mm</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-PLY-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-PLY-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">10.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafe</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INBV</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_d82ddd0d1c8a4ddfab181bacd40abd2b.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 13:01:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">test</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 13:01:58
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=Telescopic Slide 18 inch, SKU=MK-CHA-002, Qty=25.0 sets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Telescopic Slide 18 inch</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-002</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-002</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">25.0 sets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafe</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INBV</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_d82ddd0d1c8a4ddfab181bacd40abd2b.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 13:01:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">test</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 13:02:03
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New INWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=inward, Product=Tandem Box Drawer System 500mm, SKU=MK-CHA-001, Qty=25.0 sets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New INWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (INWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3d7c5a; text-transform: uppercase;">inward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Tandem Box Drawer System 500mm</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">25.0 sets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Supplier:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Hafe</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Invoice Number:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">INBV</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_d82ddd0d1c8a4ddfab181bacd40abd2b.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 13:01:38</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">test</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-20 18:22:04
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: FALLBACK ACTIVE (SMTP UNCONFIGURED/FAILED)
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=High Gloss White Acrylic Sheet, SKU=MK-LAM-001, Qty=1.0 sheets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">High Gloss White Acrylic Sheet</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">1.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_7a5d02cc73ae4c549837445422628b4d.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-20 18:21:50</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-22 14:26:52
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [LOW STOCK WARNING] [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=High Gloss White Acrylic Sheet, SKU=MK-LAM-001, Qty=10.0 sheets, Operator=Test Operator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[LOW STOCK WARNING] [Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    
+        <div style="background-color: #fef2f2; border: 1px solid #fee2e2; border-radius: 12px; padding: 15px; margin-bottom: 20px;">
+            <h3 style="color: #991b1b; margin: 0 0 5px 0; font-size: 14px; font-weight: bold; display: flex; align-items: center; gap: 6px;">
+                ⚠️ LOW STOCK ALERT
+            </h3>
+            <p style="color: #7f1d1d; margin: 0; font-size: 13px; line-height: 1.5;">
+                Stock for <strong>High Gloss White Acrylic Sheet</strong> (SKU: MK-LAM-001) has fallen below its minimum required threshold of <strong>25.0 sheets</strong>. Post-transaction stock level is currently <strong>20.0 sheets</strong>. Please arrange a restock soon.
+            </p>
+        </div>
+        
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">High Gloss White Acrylic Sheet</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-LAM-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">10.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Current Stock:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-weight: bold;">20.0 sheets</td>
+        </tr>
+        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Min Stock Level:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">25.0 sheets</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Test Customer</td>
+        </tr>
+        
+                        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Test Operator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-22 14:26:47</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Test low stock alert</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-22 14:40:35
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=Tandem Box Drawer System 500mm, SKU=MK-CHA-001, Qty=1.0 sets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Tandem Box Drawer System 500mm</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">MK-CHA-001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">1.0 sets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Current Stock:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-weight: bold;">94.0 sets</td>
+        </tr>
+        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Min Stock Level:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">40.0 sets</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_e37d5dc996194808b3269e1b56e69ef8.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-22 14:40:30</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-24 16:14:30
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New RETURN Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=return, Product=3D Auto Soft Close Hinge, SKU=VF-HF-HG-NA-000001, Qty=1.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New RETURN Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (RETURN)</h2>
+                    
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3182ce; text-transform: uppercase;">return</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-HF-HG-NA-000001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-HF-HG-NA-000001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">1.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Current Stock:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-weight: bold;">346.0 pcs</td>
+        </tr>
+        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Min Stock Level:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">200.0 pcs</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/prod_1_a99dd55bc85f415c914eb5785aae237e.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-24 16:14:22</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Returned leftover hinges</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-24 16:16:54
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New RETURN Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=return, Product=3D Auto Soft Close Hinge, SKU=VF-HF-HG-NA-000001, Qty=1.0 pcs, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New RETURN Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (RETURN)</h2>
+                    
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #3182ce; text-transform: uppercase;">return</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">3D Auto Soft Close Hinge</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-HF-HG-NA-000001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-HF-HG-NA-000001</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">1.0 pcs</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Current Stock:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-weight: bold;">347.0 pcs</td>
+        </tr>
+        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Min Stock Level:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">200.0 pcs</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Arun Woodworks</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/prod_1_a99dd55bc85f415c914eb5785aae237e.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-24 16:16:49</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">None</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+
+================================================================================
+NOTIFICATION ATTEMPT: 2026-06-24 16:27:31
+RECIPIENT: inventory.vudfit@gmail.com
+SUBJECT: [Vudfit Inventory] New OUTWARD Transaction Alert
+SMTP STATUS: SENT SUCCESSFULLY
+PDF ATTACHED: YES
+DETAILS: Type=outward, Product=BWP Marine Plywood 18mm, SKU=VF-G5-PW-NA-000007, Qty=2.0 sheets, Operator=System Administrator
+BODY:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>[Vudfit Inventory] New OUTWARD Transaction Alert</title>
+    </head>
+    <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #faf8f5; margin: 0; padding: 20px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border: 1px solid #e5c185; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header Banner -->
+            <tr>
+                <td align="center" style="background-color: #0b2316; padding: 30px; border-bottom: 4px solid #c5a059;">
+                    <h1 style="color: #c5a059; margin: 0; font-size: 24px; font-weight: bold; letter-spacing: 2px;">VUDFIT</h1>
+                    <p style="color: #ffffff; margin: 5px 0 0 0; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Luxury Living Inventory System</p>
+                </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+                <td style="padding: 30px;">
+                    <h2 style="color: #0b2316; margin-top: 0; font-size: 18px; border-bottom: 2px solid #faf8f5; padding-bottom: 10px;">Transaction Details (OUTWARD)</h2>
+                    
+                    <p style="color: #4a5568; font-size: 14px; line-height: 1.6;">
+                        This is an automated alert notifying you that a new stock transaction has been recorded.
+                    </p>
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 14px; margin-top: 20px; border-collapse: collapse;">
+                        <tr>
+                            <td width="35%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Movement Type:</td>
+                            <td width="65%" style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #ef4444; text-transform: uppercase;">outward</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Product Name:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">BWP Marine Plywood 18mm</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">SKU / Code:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-G5-PW-NA-000007</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Barcode:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-family: monospace;">VF-G5-PW-NA-000007</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Quantity:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; font-size: 16px;">2.0 sheets</td>
+                        </tr>
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Current Stock:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568; font-weight: bold;">87.0 sheets</td>
+        </tr>
+        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Min Stock Level:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">50.0 sheets</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Customer Name:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">Vudfit Delhi Showroom</td>
+        </tr>
+        
+                        
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d; vertical-align: top;">Captured Photo:</td>
+            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">
+                <img src="http://localhost:8000/static/uploads/tx_3db8eea411624d7bbc6132993c439e0a.jpg" alt="Goods Capture" style="max-width: 180px; border-radius: 8px; border: 1px solid #e5c185; display: block;" />
+            </td>
+        </tr>
+        
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Recorded By:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">System Administrator</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; font-weight: bold; color: #1d3f2d;">Timestamp:</td>
+                            <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; color: #4a5568;">2026-06-24 16:27:25</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; font-weight: bold; color: #1d3f2d; vertical-align: top;">Remarks:</td>
+                            <td style="padding: 10px; color: #718096; font-style: italic;">Test auto glue consumption</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+                <td style="background-color: #0b2316; padding: 20px; text-align: center; border-top: 1px solid #e5c185;">
+                    <p style="color: #e5c185; margin: 0; font-size: 11px;">&copy; 2026 VUDFIT. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+    </html>
+    
+================================================================================
+

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "job_id": "VDF-2026-0001",
+    "item": "HDHMR 18mm Board",
+    "spec": "Action TESA Waterproof",
+    "supplier": "National Hardware",
+    "req_qty": 45,
+    "ord_qty": 45,
+    "rec_qty": 45,
+    "status": "Received"
+  }
+]

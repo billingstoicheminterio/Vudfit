@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#fbf9f6] text-forest-900 font-sans antialiased selection:bg-brand-500 selection:text-forest-950 transition-colors duration-200;
+    /* Subtle premium architect studio dotted background grid */
+    background-image: radial-gradient(rgba(197, 160, 89, 0.08) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+  
+  html.dark body {
+    @apply bg-forest-950 text-slate-100;
+    background-image: radial-gradient(rgba(197, 160, 89, 0.04) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+/* Custom modern scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-forest-200 rounded-full hover:bg-forest-300 transition-colors;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  @apply bg-forest-900 rounded-full hover:bg-forest-800 transition-colors;
+}
+
+/* Glassmorphism utility */
+.glass-panel {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  @apply bg-white/80 border border-brand-500/10 shadow-glass;
+}
+
+.dark .glass-panel {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  @apply bg-forest-900/80 border border-brand-500/20 shadow-glass-dark;
+}
+
+/* Active sidebar link indicator style */
+.sidebar-link-active {
+  @apply bg-forest-100 text-forest-800 dark:bg-forest-900 dark:text-brand-400 font-semibold border-l-4 border-brand-500;
+}
+
+/* Smooth zoom transition */
+.transition-zoom {
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+}
+
+/* Premium card hover state with border glow and sizing transition */
+.card-hover {
+  @apply transition-all duration-300 hover:scale-[1.01] hover:shadow-premium dark:hover:shadow-premium-dark border border-forest-200/50 dark:border-forest-900/50 hover:border-brand-500/40 dark:hover:border-brand-500/40;
+}
+
+/* Premium text gradient (Gold Metallic) */
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-400 via-brand-200 to-brand-500;
+}
+
+/* Fade in animation utility */
+.fade-in {
+  animation: zoom-in 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Keyframes for sliding AI assistant chat in */
+@keyframes slide-in-right {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(0); }
+}
+
+.animate-slide-in {
+  animation: slide-in-right 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Furniture Manufacturing & Craftsmanship Styles */
+
+/* Decorative wood-grain accent borders */
+.wood-accent-top {
+  border-top: 4px solid #b78752 !important; /* Gold-warm wood oak */
+}
+.wood-accent-left {
+  border-left: 4px solid #b78752 !important;
+}
+
+/* Serif elegant titles for furniture collection feeling */
+.font-luxury-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  letter-spacing: 0.02em;
+}
+
+/* Smooth craft hover lift */
+.craft-hover {
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.craft-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px -4px rgba(183, 135, 82, 0.12), 0 4px 12px -2px rgba(11, 35, 22, 0.04);
+  border-color: rgba(183, 135, 82, 0.35);
+}
+
+.dark .craft-hover:hover {
+  box-shadow: 0 16px 36px -4px rgba(0, 0, 0, 0.5), 0 4px 16px -2px rgba(183, 135, 82, 0.15);
+  border-color: rgba(183, 135, 82, 0.45);
+}
+
+/* Architectural minimalist tags */
+.architect-badge {
+  font-family: 'Outfit', sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 9px;
+  font-weight: 700;
+}
+
+/* Chat message fade-up animation */
+@keyframes message-fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-message {
+  animation: message-fade-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Skeleton Loading Shimmer Effect */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(90deg, rgba(197, 160, 89, 0.03) 25%, rgba(197, 160, 89, 0.08) 50%, rgba(197, 160, 89, 0.03) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+.dark .skeleton-shimmer {
+  background: linear-gradient(90deg, rgba(11, 35, 22, 0.2) 25%, rgba(197, 160, 89, 0.05) 50%, rgba(11, 35, 22, 0.2) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+/* Glowing sidebar and active state effects */
+.active-glow {
+  box-shadow: 0 0 15px -3px rgba(197, 160, 89, 0.15), inset 0 0 8px -1px rgba(197, 160, 89, 0.05);
+}
+
+.active-glow-dark {
+  box-shadow: 0 0 20px -3px rgba(197, 160, 89, 0.2), inset 0 0 12px -2px rgba(197, 160, 89, 0.1);
+}
+
+/* Table Row slide up list animations */
+@keyframes row-appear {
+  0% {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-row-fade {
+  animation: row-appear 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Pulsating Scanning Ring Alert */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(197, 160, 89, 0.4);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(197, 160, 89, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(197, 160, 89, 0);
+  }
+}
+
+.scanner-focus-ring {
+  animation: pulse-ring 2s infinite;
+}
+
+/* Premium micro-interactions transition */
+.btn-premium-interactive {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-premium-interactive:hover {
+  transform: translateY(-1.5px) scale(1.01);
+  box-shadow: 0 6px 16px -2px rgba(197, 160, 89, 0.2);
+}
+.btn-premium-interactive:active {
+  transform: translateY(0.5px) scale(0.995);
+}
+
+

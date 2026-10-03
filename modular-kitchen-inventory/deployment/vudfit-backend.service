@@ -1,0 +1,14 @@
+[Unit]
+Description=VUDFIT FastAPI Backend Service
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/var/www/vudfit/backend
+ExecStart=/var/www/vudfit/backend/.venv/bin/python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
+Restart=always
+Environment=PYTHONUNBUFFERED=1
+Environment=DATABASE_URL=postgresql://vudfit_user:vudfit_secure_pass@localhost/vudfit_db
+
+[Install]
+WantedBy=multi-user.target

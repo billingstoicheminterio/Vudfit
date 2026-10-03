@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <style>
+      .brand-text { font-family: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif; font-weight: 800; fill: #162E26; }
+      .tagline-text { font-family: 'Inter', system-ui, sans-serif; font-size: 22px; font-weight: 600; fill: #162E26; letter-spacing: 1px; }
+      .sub-text { font-family: 'Inter', system-ui, sans-serif; font-size: 26px; font-weight: 500; fill: #162E26; letter-spacing: 0.5px; }
+    </style>
+  </defs>
+  
+  <!-- Icon: Pattern Tile -->
+  <g transform="translate(10, 10)">
+    <rect x="0" y="0" width="170" height="170" fill="none" />
+    <g stroke="#162E26" stroke-width="4.5" fill="none">
+      <!-- Quadrant 1 -->
+      <circle cx="42.5" cy="42.5" r="38" />
+      <circle cx="42.5" cy="42.5" r="30" />
+      <circle cx="42.5" cy="42.5" r="22" />
+      <circle cx="42.5" cy="42.5" r="14" />
+      <circle cx="42.5" cy="42.5" r="6" />
+      
+      <!-- Quadrant 2 -->
+      <circle cx="127.5" cy="42.5" r="38" />
+      <circle cx="127.5" cy="42.5" r="30" />
+      <circle cx="127.5" cy="42.5" r="22" />
+      <circle cx="127.5" cy="42.5" r="14" />
+      <circle cx="127.5" cy="42.5" r="6" />
+      
+      <!-- Quadrant 3 -->
+      <circle cx="42.5" cy="127.5" r="38" />
+      <circle cx="42.5" cy="127.5" r="30" />
+      <circle cx="42.5" cy="127.5" r="22" />
+      <circle cx="42.5" cy="127.5" r="14" />
+      <circle cx="42.5" cy="127.5" r="6" />
+      
+      <!-- Quadrant 4 -->
+      <circle cx="127.5" cy="127.5" r="38" />
+      <circle cx="127.5" cy="127.5" r="30" />
+      <circle cx="127.5" cy="127.5" r="22" />
+      <circle cx="127.5" cy="127.5" r="14" />
+      <circle cx="127.5" cy="127.5" r="6" />
+    </g>
+  </g>
+
+  <!-- Tagline Top Right -->
+  <text x="560" y="32" class="tagline-text">Style • Strength • Luxury</text>
+
+  <!-- Main Wordmark VUDFIT -->
+  <g fill="#162E26">
+    <!-- V -->
+    <path d="M 210 50 L 242 165 L 265 165 L 297 50 L 270 50 L 253.5 130 L 236.5 50 Z" />
+    <!-- U -->
+    <path d="M 312 50 L 312 135 C 312 155 325 167 345 167 C 365 167 378 155 378 135 L 378 50 L 354 50 L 354 133 C 354 143 349 148 345 148 C 341 148 336 143 336 133 L 336 50 Z" />
+    <!-- D -->
+    <path d="M 395 50 L 395 165 L 440 165 C 472 165 495 145 495 107 C 495 70 472 50 440 50 Z M 419 70 L 438 70 C 457 70 470 82 470 107 C 470 133 457 145 438 145 L 419 145 Z" />
+    <!-- F -->
+    <rect x="535" y="77" width="28" height="12" rx="3" />
+    <path d="M 512 50 L 585 50 L 585 70 L 536 70 L 536 100 L 575 100 L 575 120 L 536 120 L 536 165 L 512 165 Z" />
+    <!-- I -->
+    <path d="M 602 50 L 670 50 L 670 70 L 648 70 L 648 145 L 670 145 L 670 165 L 602 165 L 602 145 L 624 145 L 624 70 L 602 70 Z" />
+    <!-- T -->
+    <path d="M 685 50 L 775 50 L 775 70 L 742 70 L 742 165 L 718 165 L 718 70 L 685 70 Z" />
+  </g>
+
+  <!-- Subtitle Bottom -->
+  <text x="490" y="215" text-anchor="middle" class="sub-text">By Stoichem Interio Pvt.Ltd.</text>
+</svg>

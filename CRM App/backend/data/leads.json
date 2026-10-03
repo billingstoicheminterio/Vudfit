@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "lead_date": "2026-09-25",
+    "company": "Apex Commercial Tower",
+    "contact": "Priya Malhotra",
+    "phone": "+91 9988776655",
+    "email": "priya@apex.in",
+    "location": "Bandra West, Mumbai",
+    "source": "Architect",
+    "assigned_to": "Anjali Gupta",
+    "requirement": "Full Penthouse Wardrobes & Kitchen",
+    "stage": "Qualified",
+    "est_value": 2800000,
+    "probability": 70,
+    "remarks": "Site visit scheduled for next Tuesday"
+  }
+]

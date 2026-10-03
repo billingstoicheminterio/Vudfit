@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "job_id": "VDF-2026-0001",
+    "material_cost": 420000,
+    "hardware_cost": 180000,
+    "labour_cost": 85000,
+    "machine_cost": 45000,
+    "finish_cost": 65000,
+    "transport": 25000,
+    "installation": 50000,
+    "other_cost": 15000,
+    "remarks": "BOQ Cost Estimate Approved"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Admin",
+    "email": "admin@vudfit.com",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+    "role": "admin",
+    "password": "9427717076",
+    "department": "Executive Management",
+    "phone": "9427717076",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "user-1788423783557",
+    "name": "Teena Rungte",
+    "email": "teena@vudfit.com",
+    "password": "abcd123",
+    "role": "team_member",
+    "department": "Sales",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-03T08:23:03.557Z"
+  },
+  {
+    "id": "user-1788423830505",
+    "name": "Mirant Jahngid",
+    "email": "mirant@vudfit.com",
+    "password": "abcd1234",
+    "role": "team_member",
+    "department": "Back Office",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-03T08:23:50.505Z"
+  },
+  {
+    "id": "user-1788423888307",
+    "name": "Pratipalsinh Chauhan",
+    "email": "pratipal@vudfit.com",
+    "password": "abcd1234",
+    "role": "manager",
+    "department": "Production",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-09-03T08:24:48.307Z"
+  },
+  {
+    "id": "user-1788423945335",
+    "name": "Mrunalsinh Solanki",
+    "email": "mrunal@vudfit.com",
+    "password": "abcd1234",
+    "role": "director",
+    "department": "Accounts",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-09-03T08:25:45.335Z"
+  },
+  {
+    "id": "user-1788423988604",
+    "name": "Kathan Desia",
+    "email": "kathan@vudfit.com",
+    "password": "abcd1234",
+    "role": "director",
+    "department": "Inventory",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-09-03T08:26:28.604Z"
+  },
+  {
+    "id": "user-1788424034571",
+    "name": "Hiten Patel",
+    "email": "hiten@vudfit.com",
+    "password": "abcd1234",
+    "role": "director",
+    "department": "Production",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-09-03T08:27:14.571Z"
+  },
+  {
+    "id": "user-1788424100989",
+    "name": "Bhargavrajsinh Solanki",
+    "email": "bhargav@vudfit.com",
+    "password": "abcd1234",
+    "role": "director",
+    "department": "Sales",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": true,
+      "departmentAccess": "all"
+    },
+    "createdAt": "2026-09-03T08:28:20.989Z"
+  },
+  {
+    "id": "user-1788424235423",
+    "name": "Shahil Shekh",
+    "email": "shahil@vudfit.com",
+    "password": "abcd1234",
+    "role": "team_member",
+    "department": "Back Office",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-03T08:30:35.423Z"
+  },
+  {
+    "id": "user-1788424270609",
+    "name": "Altaf Pathan",
+    "email": "altaf@vudfit.com",
+    "password": "abcd1234",
+    "role": "team_member",
+    "department": "Back Office",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-03T08:31:10.609Z"
+  },
+  {
+    "id": "user-1788604800938",
+    "name": "Akshay Kahradi",
+    "email": "akshay@vudfit.com",
+    "password": "abcd1234",
+    "role": "team_member",
+    "department": "Production",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-05T10:40:00.938Z"
+  },
+  {
+    "id": "user-1788604852202",
+    "name": "Rakesh Ray",
+    "email": "rakesh@vudfit.com",
+    "password": "abcd1234",
+    "role": "team_member",
+    "department": "Inventory",
+    "phone": "",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "status": "active",
+    "permissions": {
+      "canViewAllTasks": false,
+      "departmentAccess": "own_department_only"
+    },
+    "createdAt": "2026-09-05T10:40:52.202Z"
+  }
+]

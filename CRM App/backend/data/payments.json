@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "job_id": "VDF-2026-0001",
+    "invoice_no": "INV-2026-001",
+    "invoice_date": "2026-09-05",
+    "description": "Booking Advance (40%)",
+    "invoice_amt": 500000,
+    "received": 500000,
+    "receipt_date": "2026-09-06",
+    "method": "Bank Transfer",
+    "due_date": "2026-09-05",
+    "status": "Paid"
+  }
+]

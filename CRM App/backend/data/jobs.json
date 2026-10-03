@@ -1,0 +1,22 @@
+[
+  {
+    "id": "VDF-2026-0001",
+    "company": "Oberoi Luxury Villa",
+    "contact": "Rajesh Sharma",
+    "phone": "+91 9876543210",
+    "email": "rajesh@oberoi.com",
+    "location": "Worli, Mumbai",
+    "architect": "Architect Mehta",
+    "sales_owner": "Sanjay Kumar",
+    "proj_type": "Modular Kitchen",
+    "order_date": "2026-09-01",
+    "contract_value": 1250000,
+    "current_stage": "15 Advance / Payment Confirmation",
+    "pct_complete": 36,
+    "status": "Active",
+    "target_completion": "2026-11-15",
+    "payment_status": "Partial",
+    "priority": "High",
+    "remarks": "Premium Acrylic & Veneer Finish"
+  }
+]
