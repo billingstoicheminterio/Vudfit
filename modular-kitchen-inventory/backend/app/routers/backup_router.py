@@ -3,7 +3,7 @@ import os
 import csv
 import zipfile
 from datetime import datetime
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, Query
 from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
 
@@ -13,6 +13,52 @@ from ..auth import get_master_user
 from .product_router import get_product_stock
 
 router = APIRouter(prefix="/backup", tags=["Backup"])
+
+
+@router.post("/reset-inventory")
+def reset_inventory(
+    clear_products: bool = Query(True, description="If true, also deletes all products. If false, only clears transaction history."),
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_master_user)  # Master role only
+):
+    """
+    ⚠️ DANGER ZONE – Master Admin Only.
+    Wipes all inventory stock data to allow a clean re-import from a fresh CSV.
+    
+    - `clear_products=true` (default): Deletes ALL transactions AND ALL products (full factory reset).
+    - `clear_products=false`: Deletes only transaction history (stock becomes 0), products remain.
+    """
+    deleted_transactions = db.query(Transaction).delete(synchronize_session=False)
+    db.commit()
+    
+    deleted_products = 0
+    if clear_products:
+        deleted_products = db.query(Product).delete(synchronize_session=False)
+        db.commit()
+
+    # Log the action
+    audit = AuditLog(
+        user_id=current_user.id,
+        action="RESET_INVENTORY",
+        details=(
+            f"Master reset performed by {current_user.username}. "
+            f"Deleted {deleted_transactions} transactions, {deleted_products} products. "
+            f"clear_products={clear_products}"
+        )
+    )
+    db.add(audit)
+    db.commit()
+
+    return {
+        "status": "success",
+        "message": (
+            f"Inventory reset complete. Deleted {deleted_transactions} transaction records"
+            + (f" and {deleted_products} products." if clear_products else ". Products catalog retained.")
+        ),
+        "deleted_transactions": deleted_transactions,
+        "deleted_products": deleted_products,
+        "clear_products": clear_products
+    }
 
 @router.get("/download")
 def download_full_system_backup(

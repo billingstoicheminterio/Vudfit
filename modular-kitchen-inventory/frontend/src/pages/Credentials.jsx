@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { 
   KeyRound, Plus, Trash2, Edit2, ShieldAlert, Key, 
   UserCheck, RefreshCw, Eye, EyeOff, Shield, ShieldCheck, 
-  User, Sparkles, Ruler, Check
+  User, Sparkles, Ruler, Check, AlertTriangle, Database, Flame
 } from 'lucide-react';
 import api from '../utils/api';
 import { useAuth } from '../context/AuthContext';
@@ -22,6 +22,12 @@ const Credentials = () => {
   const [showUnitsModal, setShowUnitsModal] = useState(false);
   const [customUnits, setCustomUnits] = useState([]);
   const [newUnitInput, setNewUnitInput] = useState('');
+
+  // Danger Zone - Reset Inventory State
+  const [showResetModal, setShowResetModal] = useState(false);
+  const [resetMode, setResetMode] = useState('full'); // 'full' or 'stock_only'
+  const [resetConfirmText, setResetConfirmText] = useState('');
+  const [resetting, setResetting] = useState(false);
 
   const standardUnitsList = ['box', 'drum', 'feet', 'kgs', 'mtr', 'nos', 'pair', 'pcs', 'pkt', 'rft', 'set', 'sheet', 'sqf', 'sqm'];
 
@@ -60,6 +66,26 @@ const Credentials = () => {
     setCustomUnits(updated);
     localStorage.setItem('vudfit_custom_units', JSON.stringify(updated));
     showNotification(`Removed custom unit: '${unitToRemove}'`, 'success');
+  };
+
+  const handleResetInventory = async () => {
+    if (resetConfirmText.trim().toUpperCase() !== 'RESET') {
+      showNotification('Please type RESET exactly to confirm.', 'error');
+      return;
+    }
+    setResetting(true);
+    try {
+      const clearProducts = resetMode === 'full';
+      const res = await api.post(`/backup/reset-inventory?clear_products=${clearProducts}`);
+      showNotification(res.data.message || 'Inventory reset successfully.', 'success');
+      setShowResetModal(false);
+      setResetConfirmText('');
+    } catch (err) {
+      const detail = err.response?.data?.detail || 'Reset failed. Please try again.';
+      showNotification(detail, 'error');
+    } finally {
+      setResetting(false);
+    }
   };
 
   // Form states
@@ -701,6 +727,129 @@ const Credentials = () => {
                 className="px-5 py-2.5 rounded-xl bg-forest-200 dark:bg-forest-800 text-forest-900 dark:text-white font-bold text-xs transition-colors cursor-pointer"
               >
                 Close
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* ⚠️ Danger Zone – Master Admin Only */}
+      {currentUser?.role === 'master' && (
+        <div className="glass-panel rounded-3xl border-2 border-red-500/25 dark:border-red-500/20 overflow-hidden shadow-lg fade-in">
+          <div className="bg-gradient-to-r from-red-500/8 to-orange-500/5 px-6 py-4 border-b border-red-500/15 flex items-center space-x-3">
+            <div className="w-8 h-8 rounded-xl bg-red-500/15 flex items-center justify-center">
+              <Flame className="w-4 h-4 text-red-500" />
+            </div>
+            <div>
+              <h4 className="text-sm font-black text-red-600 dark:text-red-400 uppercase tracking-widest">Danger Zone</h4>
+              <p className="text-[10px] text-slate-500 dark:text-forest-400 font-medium">Master administrator access required. These actions are irreversible.</p>
+            </div>
+          </div>
+
+          <div className="p-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+            {/* Option 1 – Clear Stock Only */}
+            <div className="rounded-2xl border border-orange-500/25 bg-orange-500/5 p-4 space-y-3">
+              <div className="flex items-center space-x-2">
+                <Database className="w-4 h-4 text-orange-500" />
+                <span className="text-sm font-bold text-orange-700 dark:text-orange-400">Clear Stock History Only</span>
+              </div>
+              <p className="text-xs text-slate-500 dark:text-forest-400 leading-relaxed">
+                Removes all inward/outward transaction records. Stock levels drop to zero.
+                <strong className="text-orange-600 dark:text-orange-300"> Products catalog is kept.</strong> Use this to re-import fresh stock quantities.
+              </p>
+              <button
+                onClick={() => { setResetMode('stock_only'); setResetConfirmText(''); setShowResetModal(true); }}
+                className="w-full py-2.5 px-4 rounded-xl bg-orange-500/15 hover:bg-orange-500/25 border border-orange-500/30 text-orange-700 dark:text-orange-300 font-bold text-xs transition-all cursor-pointer flex items-center justify-center space-x-2"
+              >
+                <AlertTriangle className="w-3.5 h-3.5" />
+                <span>Clear All Stock Transactions</span>
+              </button>
+            </div>
+
+            {/* Option 2 – Full Reset */}
+            <div className="rounded-2xl border border-red-500/30 bg-red-500/5 p-4 space-y-3">
+              <div className="flex items-center space-x-2">
+                <Flame className="w-4 h-4 text-red-500" />
+                <span className="text-sm font-bold text-red-700 dark:text-red-400">Full Inventory Reset</span>
+              </div>
+              <p className="text-xs text-slate-500 dark:text-forest-400 leading-relaxed">
+                Deletes <strong className="text-red-600 dark:text-red-400">ALL products AND all transactions.</strong> Complete factory reset.
+                Use this before importing a brand-new product catalog from scratch.
+              </p>
+              <button
+                onClick={() => { setResetMode('full'); setResetConfirmText(''); setShowResetModal(true); }}
+                className="w-full py-2.5 px-4 rounded-xl bg-red-500/15 hover:bg-red-500/25 border border-red-500/30 text-red-700 dark:text-red-300 font-bold text-xs transition-all cursor-pointer flex items-center justify-center space-x-2"
+              >
+                <Flame className="w-3.5 h-3.5" />
+                <span>Full Reset — Wipe Everything</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Reset Confirmation Modal */}
+      {showResetModal && (
+        <div className="fixed inset-0 bg-slate-900/70 backdrop-blur-md z-50 flex items-center justify-center p-4">
+          <div className="bg-white dark:bg-forest-900 border-2 border-red-500/30 rounded-3xl w-full max-w-md p-6 shadow-2xl relative animate-zoom-in">
+            <div className="flex items-center space-x-3 mb-4">
+              <div className="w-10 h-10 rounded-2xl bg-red-500/15 flex items-center justify-center flex-shrink-0">
+                {resetMode === 'full' ? <Flame className="w-5 h-5 text-red-500" /> : <AlertTriangle className="w-5 h-5 text-orange-500" />}
+              </div>
+              <div>
+                <h4 className="text-lg font-black text-red-600 dark:text-red-400">
+                  {resetMode === 'full' ? '⚠️ Full Inventory Reset' : '⚠️ Clear Stock History'}
+                </h4>
+                <p className="text-[10px] text-slate-500 font-medium">This action cannot be undone.</p>
+              </div>
+            </div>
+
+            <div className="bg-red-50 dark:bg-red-950/20 border border-red-200 dark:border-red-900/40 rounded-2xl p-4 mb-5 text-xs text-red-700 dark:text-red-300 space-y-1.5 font-medium">
+              {resetMode === 'full' ? (
+                <>
+                  <p>🗑️ All <strong>products</strong> will be permanently deleted.</p>
+                  <p>🗑️ All <strong>transaction history</strong> (inward/outward) will be deleted.</p>
+                  <p>✅ User accounts, categories, brands, and suppliers will be kept.</p>
+                </>
+              ) : (
+                <>
+                  <p>🗑️ All <strong>transaction history</strong> (inward/outward) will be deleted.</p>
+                  <p>✅ Product catalog entries will be <strong>kept</strong> (stock will show as 0).</p>
+                </>
+              )}
+            </div>
+
+            <div className="space-y-2 mb-6">
+              <label className="text-xs font-bold text-slate-600 dark:text-forest-300">
+                Type <span className="font-black text-red-500 font-mono">RESET</span> to confirm:
+              </label>
+              <input
+                type="text"
+                value={resetConfirmText}
+                onChange={(e) => setResetConfirmText(e.target.value)}
+                autoFocus
+                placeholder="Type RESET here..."
+                className="w-full px-4 py-3 bg-white dark:bg-forest-950 border-2 border-red-300 dark:border-red-800 focus:border-red-500 rounded-xl focus:outline-none focus:ring-4 focus:ring-red-500/10 text-sm dark:text-white font-mono font-bold tracking-widest"
+              />
+            </div>
+
+            <div className="flex justify-end space-x-2">
+              <button
+                type="button"
+                onClick={() => { setShowResetModal(false); setResetConfirmText(''); }}
+                disabled={resetting}
+                className="px-4 py-2.5 rounded-xl border border-forest-200 dark:border-forest-800 text-slate-600 dark:text-forest-300 hover:bg-forest-50 dark:hover:bg-forest-950 font-bold text-xs transition-colors cursor-pointer disabled:opacity-50"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                onClick={handleResetInventory}
+                disabled={resetting || resetConfirmText.trim().toUpperCase() !== 'RESET'}
+                className="px-5 py-2.5 rounded-xl bg-gradient-to-r from-red-500 to-red-600 hover:from-red-400 hover:to-red-500 text-white font-bold text-xs shadow-md shadow-red-500/20 transition-all cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed flex items-center space-x-2"
+              >
+                {resetting ? <RefreshCw className="w-3.5 h-3.5 animate-spin" /> : <Flame className="w-3.5 h-3.5" />}
+                <span>{resetting ? 'Resetting...' : (resetMode === 'full' ? 'Wipe Everything' : 'Clear Stock History')}</span>
               </button>
             </div>
           </div>
